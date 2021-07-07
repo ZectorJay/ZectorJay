@@ -1,3 +1,9 @@
+Hi 👋
+
+I'm  Ivan Mokhovoy, student of School 21. I'm from Russia, Moscow.
+
+👨‍💻 I’m currently learning C++
+
 ![hmickey's stats](https://badge42.herokuapp.com/api/stats/hmickey)
 
 ![ZectorJay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZectorJay&show_icons=true&theme=dark)
